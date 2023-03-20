@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\MediaCss.html",
+      "PackagePath": "staticwebassets\\MediaCss.html"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\Stil.css",
+      "PackagePath": "staticwebassets\\Stil.css"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\cssselector.html",
+      "PackagePath": "staticwebassets\\cssselector.html"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\externalstyle.html",
+      "PackagePath": "staticwebassets\\externalstyle.html"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\forms.html",
+      "PackagePath": "staticwebassets\\forms.html"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\next.png",
+      "PackagePath": "staticwebassets\\next.png"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\pictures.png",
+      "PackagePath": "staticwebassets\\pictures.png"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\prev.png",
+      "PackagePath": "staticwebassets\\prev.png"
+    },
+    {
+      "Id": "D:\\26Eylül\\CSS\\CSS\\wwwroot\\stil.html",
+      "PackagePath": "staticwebassets\\stil.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CSS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CSS.props",
+      "PackagePath": "build\\CSS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CSS.props",
+      "PackagePath": "buildMultiTargeting\\CSS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CSS.props",
+      "PackagePath": "buildTransitive\\CSS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
